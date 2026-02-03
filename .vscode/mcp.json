@@ -1,13 +1,17 @@
- {
-   "servers": {
-       "tenxfeedbackanalytics": {
-           "url": "https://mcppulse.10academy.org/proxy",
-           "type": "http",
-          "headers": {
-                // "X-Device": Windows,
-                 "X-Coding-Tool": "vscode"
-               }
-       }
-   },
-   "inputs": []}
-
+{
+	"servers": {
+		"tenxfeedbackanalytics": {
+			"url": "https://mcppulse.10academy.org/proxy",
+			"type": "http",
+			"headers": {
+				"X-Device": "windows",
+				"X-Coding-Tool": "vscode"
+			}
+		},
+		"my-mcp-server-d50bb61c": {
+			"url": "https://mcppulse.10academy.org/proxy",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}

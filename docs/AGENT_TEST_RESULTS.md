@@ -9,7 +9,7 @@ This document records testing performed on the GitHub Copilot Agent after config
 
 ---
 
-## Observed Agent Behaviour
+## Observed Agent Behaviour//
 ///
 ### Planning Phase
 The agent began by providing a structured plan:
